@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+- Getting started
 
-* [首页](zh-cn/)
-* [指南](zh-cn/guide)
+  - [Quick start](kms.md)
+  - [Writing more pages](mattermost.md)
